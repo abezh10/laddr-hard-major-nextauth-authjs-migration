@@ -1,4 +1,12 @@
 {
-  "name": "hard-major-nextauth-authjs-migration",
-  "private": true
+  "name": "laddr-hard-major-nextauth-authjs-migration",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"Sample repo scaffold\"",
+    "start": "echo \"Sample repo scaffold\""
+  },
+  "dependencies": {
+    "next": "^15.0.0"
+  }
 }

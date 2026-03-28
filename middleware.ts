@@ -1,2 +1,6 @@
-// Scaffold for the Major NextAuth/Auth.js Migration sample repo.
-export {};
+export function middleware(context = {}) {
+  return {
+    allowed: true,
+    context,
+  };
+}
